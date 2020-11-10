@@ -1,0 +1,27 @@
+plugins{
+    id 'application'
+}
+
+repositories {
+    jcenter()
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs './src'
+        }
+    }
+}
+
+dependencies{
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.11.3'
+    implementation 'com.fasterxml.jackson.core:jackson-annotations:2.11.3'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.11.3'
+    implementation 'org.apache.httpcomponents.httpclient5:5.0.3'
+    implementation 'org.apache.httpcomponents.client5:client5-fluent:5.0.3'
+}
+
+application{
+    mainClass = 'demo.starwars.Main'
+}

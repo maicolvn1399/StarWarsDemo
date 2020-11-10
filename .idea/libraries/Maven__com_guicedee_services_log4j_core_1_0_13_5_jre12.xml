@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.guicedee.services:log4j-core:1.0.13.5-jre12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/log4j-core/1.0.13.5-jre12/log4j-core-1.0.13.5-jre12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/log4j-core/1.0.13.5-jre12/log4j-core-1.0.13.5-jre12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/log4j-core/1.0.13.5-jre12/log4j-core-1.0.13.5-jre12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

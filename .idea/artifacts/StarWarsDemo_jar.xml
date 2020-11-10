@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StarWarsDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StarWarsDemo_jar</output-path>
+    <root id="archive" name="StarWarsDemo.jar">
+      <element id="module-output" name="StarWarsDemo" />
+      <element id="module-output" name="StarWarsDemo.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.3/4f7b27416934dc929bb6c2d2c5fe521829e6a4ec/jackson-databind-2.11.3.jar" path-in-jar="/" />
+      <element id="library" level="module" name="Gradle: org.apache.httpcomponents.client5:client5-fluent:5.0.3" module-name="StarWarsDemo.main" />
+      <element id="library" level="project" name="Gradle: org.apache.httpcomponents.httpclient5:5.0.3:" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.3/c2351800432bdbdd8284c3f5a7f0782a352aa84a/jackson-core-2.11.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.3/25d4e9c777e7a8805c4a000a8629d3009c779c9b/jackson-annotations-2.11.3.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: org.apache.httpcomponents.client5:client5-fluent:5.0.3" />
+    </root>
+  </artifact>
+</component>

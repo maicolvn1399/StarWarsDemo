@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StarWarsDemo.iml" filepath="$PROJECT_DIR$/StarWarsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StarWarsDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StarWarsDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StarWarsDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StarWarsDemo.test.iml" />
     </modules>
   </component>
 </project>
